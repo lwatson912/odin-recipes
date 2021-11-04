@@ -1,0 +1,10 @@
+.font {
+    color: greenyellow;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: grey;
+}
+
+.cent {
+    text-align: center;
+}
